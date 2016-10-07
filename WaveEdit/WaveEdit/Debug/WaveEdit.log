@@ -1,0 +1,7 @@
+﻿  WaveEditView.cpp
+c:\cs390-cpp\waveedit\waveedit\waveeditview.cpp(135): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\cs390-cpp\waveedit\waveedit\waveeditview.cpp(140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\cs390-cpp\waveedit\waveedit\waveeditview.cpp(491): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\cs390-cpp\waveedit\waveedit\waveeditview.cpp(508): warning C4305: 'argument': truncation from 'double' to 'float'
+  WaveEdit.vcxproj -> C:\CS390-CPP\WaveEdit\Debug\WaveEdit.exe
+  WaveEdit.vcxproj -> C:\CS390-CPP\WaveEdit\Debug\WaveEdit.pdb (Partial PDB)
